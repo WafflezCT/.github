@@ -1,4 +1,3 @@
-![](logo-circle.png)
 # Wafflez Studios
 Welcome to Wafflez Studios official GitHub.
 
